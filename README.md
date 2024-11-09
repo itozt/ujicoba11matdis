@@ -113,7 +113,7 @@ Contoh 3 : <br>
         return
    ```
    - Hal ini dapat menghemat waktu karena tidak perlu menghitung semua pasangan |ai - aj|.
-3. **Efisiensi** <br
+3. **Efisiensi** <br>
    - Menghindari Komputasi Besar : <br>
      Ketika n > m, menghitung semua pasangan akan memakan waktu O(n^2). Dengan menghentikan program lebih awal, waktu eksekusi dapat menjadi O(1).
 4. **Kesimpulan** <br>
